@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "SEO查询助手",
+  "version": "1.0.0",
+  "description": "一键跳转到站长工具查询当前网站的SEO信息",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
